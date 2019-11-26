@@ -1,0 +1,19 @@
+{
+  "name": "bee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Front-Approach/bee.git"
+  },
+  "author": "zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Front-Approach/bee/issues"
+  },
+  "homepage": "https://github.com/Front-Approach/bee#readme"
+}
